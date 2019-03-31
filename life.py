@@ -1,4 +1,6 @@
 #!/usr/bin/python 
+#encoding=utf-8
+# just use python3 xxx to run the program
 import numpy as np
 
 import argparse 
